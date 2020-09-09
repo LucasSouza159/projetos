@@ -1,2 +1,2 @@
 # projetos
-projetos simples
+Depósito de alguns projetos de Estudo.
